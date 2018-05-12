@@ -1,4 +1,8 @@
 _repo: The-Story-of-the-Thirteen-Colonies_48051
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48051-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Guerber, H. A. (Hélène Adeline)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '5313'
     url: http://www.gutenberg.org/2009/agents/5313
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48051#The-Story-of-the-Thirteen-Colonies
 gutenberg_issued: '2015-01-23'
 gutenberg_type: Text
 identifiers:
